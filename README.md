@@ -1,6 +1,6 @@
 # codex-direct
 
-在终端里用 ChatGPT/Codex 订阅直接调用 GPT-5.6。授权走 OpenAI 官方的 Codex
+在终端里用 ChatGPT/Codex 订阅直接调用 GPT模型。授权走 OpenAI 官方的 Codex
 device-code 流程（终端打印链接 + 设备码，浏览器确认），调用走 ChatGPT 后端的
 Responses 接口。
 
